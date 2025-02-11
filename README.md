@@ -38,7 +38,15 @@ O nome Virtual Bloom foi escolhido para refletir a união única entre a tecnolo
 Com a Virtual Bloom, os usuários podem "florescer" sua criatividade e se conectar com a natureza de maneira digital, criando arranjos florais de forma simples e divertida, sem sair de casa. Seja montando buquês no nosso aplicativo ou se divertindo no nosso jogo da forca, a plataforma traz o encanto das flores para o mundo virtual, tornando cada interação uma experiência envolvente e única.
 
 ---
+### 🌸 A Origem do Nome "Virtual Bloom"
+🌿 Missão:
+A missão da Virtual Bloom é conectar o virtual com a natureza de forma interativa e acessível.
+🌿 Visão:
+A Virtual Bloom busca conectar tecnologia e natureza, tornando a criação de buquês digitalmente acessível e criativa para todos.
+🌿 Valor:
+A Virtual Bloom valoriza a criatividade, a inovação e a conexão com a natureza, buscando oferecer experiências acessíveis, inclusivas e envolventes para todos.
 
+---
 ### ➤ Nossa Equipe:
 
 <div align="center">
