@@ -14,7 +14,13 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
 <br>
 <p>
   - Eclipse IDE
+</p>
+<p>
   - WindowBuilder
+</p>
+<p>
+
+</p>
   - Canva
   - Pinterest
 </p>
