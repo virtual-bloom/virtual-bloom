@@ -49,9 +49,10 @@ A Virtual Bloom busca conectar tecnologia e natureza, tornando a criação de bu
 A Virtual Bloom valoriza a criatividade, a inovação e a conexão com a natureza, buscando oferecer experiências acessíveis, inclusivas e envolventes para todos.
 
 ---
-### ➤ Como testar:
+### Como testar:
 
 --- Abra a pasta Projeto e siga as instruções.
+---
 ### ➤ Nossa Equipe:
 
 <div align="center">
