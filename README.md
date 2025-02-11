@@ -14,19 +14,6 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
 <br>
 
 <p  align="center">
-
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
-  </p>
-  
-<p  align="center">
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  </p>
-  
-  <p  align="center">
-
   
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
  </p>
@@ -37,15 +24,11 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
   &nbsp;
 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25">
-&nbsp;
-<!---<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
-&nbsp;-->
 <img src="https://img.shields.io/badge/figma-0078D6?style=for-the-badge&logo=figma&logoColor=white" height="25">
 &nbsp; 
 <img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
 &nbsp; 
-<img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
+
 
 
 
