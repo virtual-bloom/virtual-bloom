@@ -41,8 +41,10 @@ Com a Virtual Bloom, os usuários podem "florescer" sua criatividade e se conect
 ### 🌸 A Origem do Nome "Virtual Bloom"
 🌿 Missão:
 A missão da Virtual Bloom é conectar o virtual com a natureza de forma interativa e acessível.
+
 🌿 Visão:
 A Virtual Bloom busca conectar tecnologia e natureza, tornando a criação de buquês digitalmente acessível e criativa para todos.
+
 🌿 Valor:
 A Virtual Bloom valoriza a criatividade, a inovação e a conexão com a natureza, buscando oferecer experiências acessíveis, inclusivas e envolventes para todos.
 
