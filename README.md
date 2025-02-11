@@ -19,11 +19,12 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
   - WindowBuilder
 </p>
 <p>
+ - Canva
+</p>
+ - Pinterest
+</p>
+  
 
-</p>
-  - Canva
-  - Pinterest
-</p>
 
 <br>
 
