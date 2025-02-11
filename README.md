@@ -38,13 +38,14 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
 
 ---
 
-### ➤ Qual a Origem do Nosso Nome?
-Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("ciêijêijêi" ou apelidado de "cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
+### 🌸 A Origem do Nome "Virtual Bloom"
+O nome Virtual Bloom foi escolhido para refletir a união única entre a tecnologia e a natureza, que é o coração da nossa proposta inovadora. A palavra "Bloom" (flor) simboliza a beleza natural e a arte dos arranjos florais, que são fundamentais para a nossa plataforma. Já o termo "Virtual" representa o ambiente digital e interativo onde transformamos essa arte em uma experiência acessível a todos.
+
+Com a Virtual Bloom, os usuários podem "florescer" sua criatividade e se conectar com a natureza de maneira digital, criando arranjos florais de forma simples e divertida, sem sair de casa. Seja montando buquês no nosso aplicativo ou se divertindo no nosso jogo da forca, a plataforma traz o encanto das flores para o mundo virtual, tornando cada interação uma experiência envolvente e única.
 
 ---
 
 ### ➤ Nossa Equipe:
-<!---[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)--->
 
 <div align="center">
 <table>
