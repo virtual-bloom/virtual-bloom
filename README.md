@@ -89,8 +89,8 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/leticia510"><img src="https://avatars.githubusercontent.com/u/125226620?s=400&u=75572cb6825f5e3140326aa304d8a8a68d8ee545&v=4" width="100px;" alt="Ana Letícia"/><br /><sub><b>Ana Letícia</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/lunaandrade"><img src="https://avatars.githubusercontent.com/u/99372702?v=4" width="100px;" alt="Luna Andrade"/><br /><sub><b>Luna Andrade</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/leticia510"><img src="https://avatars.githubusercontent.com/u/152521453?v=4" width="100px;" alt="Ana Letícia"/><br /><sub><b>Ana Letícia</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lunaandrade"><img src="https://avatars.githubusercontent.com/u/152522105?v=4" width="100px;" alt="Luna Andrade"/><br /><sub><b>Luna Andrade</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/NaelyPaz"><img src="https://avatars.githubusercontent.com/u/158229713?v=4" width="100px;" alt="Naely Paz"/><br /><sub><b>Naely Paz</b></sub></a><br /></td>
     </tr>
   </tbody>
