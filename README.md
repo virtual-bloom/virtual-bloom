@@ -1,7 +1,7 @@
 # Virtual-Bloom
-![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1_BANNER.gif)
+![Design and Development](https://avatars.githubusercontent.com/u/192001192?s=200&v=4)
 
-### ➤ Quem é a CEJJ Studios? 
+### ➤ Quem é a Virtual Bloom? 
 
 ---
 
