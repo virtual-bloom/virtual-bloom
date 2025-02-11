@@ -32,7 +32,7 @@ A plataforma transforma a arte dos arranjos florais em uma experiência digital 
 
 ---
 
-### 🌸 A Origem do Nome "Virtual Bloom"
+### 🌸 Missão, Visão e Valores"
 O nome Virtual Bloom foi escolhido para refletir a união única entre a tecnologia e a natureza, que é o coração da nossa proposta inovadora. A palavra "Bloom" (flor) simboliza a beleza natural e a arte dos arranjos florais, que são fundamentais para a nossa plataforma. Já o termo "Virtual" representa o ambiente digital e interativo onde transformamos essa arte em uma experiência acessível a todos.
 
 Com a Virtual Bloom, os usuários podem "florescer" sua criatividade e se conectar com a natureza de maneira digital, criando arranjos florais de forma simples e divertida, sem sair de casa. Seja montando buquês no nosso aplicativo ou se divertindo no nosso jogo da forca, a plataforma traz o encanto das flores para o mundo virtual, tornando cada interação uma experiência envolvente e única.
