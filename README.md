@@ -1,5 +1,5 @@
 # Virtual-Bloom
-![Design and Development](https://avatars.githubusercontent.com/u/192001192?s=200&v=4)
+![Design and Development](https://github.com/virtual-bloom/virtual-bloom/blob/main/logo.png?raw=true)
 
 ### ➤ Quem é a Virtual Bloom? 
 
