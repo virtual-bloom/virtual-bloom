@@ -5,7 +5,9 @@
 
 ---
 
-Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadeiras da matriz curricular do curso Técnico em Informática no IFCE. Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
+A Virtual Bloom é uma proposta inovadora que combina tecnologia e natureza, permitindo que os usuários montem buquês virtuais por meio de um jogo interativo e um aplicativo intuitivo. 
+
+A plataforma transforma a arte dos arranjos florais em uma experiência digital acessível e divertida, conectando as pessoas à beleza das flores sem sair de casa.
 
 ---
 
