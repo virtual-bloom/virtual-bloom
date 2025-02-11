@@ -9,31 +9,16 @@ Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadei
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas que serão Utilizadas:</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas que foram Utilizadas:</b>
 
 <br>
-
-<p  align="center">
-  
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
- </p>
- 
- <p  align="center">
-
-  
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/figma-0078D6?style=for-the-badge&logo=figma&logoColor=white" height="25">
-&nbsp; 
-<img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
-&nbsp; 
-
-
-
-
-
+<p>
+  - Eclipse IDE
+  - WindowBuilder
+  - Canva
+  - Pinterest
 </p>
+
 <br>
 
 ---
