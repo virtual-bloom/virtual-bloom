@@ -50,9 +50,10 @@ A Virtual Bloom valoriza a criatividade, a inovação e a conexão com a naturez
 
 ---
 ### Como testar:
+- Abra a pasta Projeto e siga as instruções.
 
---- Abra a pasta Projeto e siga as instruções.
 ---
+
 ### ➤ Nossa Equipe:
 
 <div align="center">
