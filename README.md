@@ -1,5 +1,5 @@
 # Virtual-Bloom
-![Design and Development](https://github.com/virtual-bloom/virtual-bloom/blob/main/logo.png?raw=true)
+![Design and Development](https://github.com/virtual-bloom/virtual-bloom/blob/main/logo2.png?raw=true)
 
 ### ➤ Quem é a Virtual Bloom? 
 
